@@ -1,1 +1,1 @@
-Iniciando o Repositório
+Iniciando o Repositório com acesso pelo android
