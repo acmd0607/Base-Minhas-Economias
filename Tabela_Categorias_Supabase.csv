@@ -1,0 +1,101 @@
+id,grupo,subgrupo,nome,tipo,total_separado,sumario_parcial,sumario_total,ativa
+1,ALIMENTAÇÃO E LIMPEZA,null,Feira e Mercearia,Despesa,false,Despesas com alimentação e limpeza,Despesas e Custos,true
+2,ALIMENTAÇÃO E LIMPEZA,null,Lanchonete,Despesa,false,Despesas com alimentação e limpeza,Despesas e Custos,true
+3,ALIMENTAÇÃO E LIMPEZA,null,Padaria,Despesa,false,Despesas com alimentação e limpeza,Despesas e Custos,true
+4,ALIMENTAÇÃO E LIMPEZA,null,Restaurante,Despesa,false,Despesas com alimentação e limpeza,Despesas e Custos,true
+5,ALIMENTAÇÃO E LIMPEZA,null,Supermercado,Despesa,false,Despesas com alimentação e limpeza,Despesas e Custos,true
+6,BENS DURÁVEIS,null,Ampliação-Melhorias Imóveis,Despesa,true,Investimentos Bens Imóveis,Investimentos Bens Imóveis,true
+7,BENS DURÁVEIS,null,Aquisição Imóveis,Despesa,true,Investimentos Bens Imóveis,Investimentos Bens Imóveis,true
+8,BENS DURÁVEIS,null,"Carros, Motos e Acessórios",Despesa,true,Investimentos Bens Móveis,Investimentos Bens Móveis,true
+9,BENS DURÁVEIS,null,Eletrônicos,Despesa,true,Investimentos Bens,Investimentos,true
+10,BENS DURÁVEIS,null,Utensílios domésticos,Despesa,true,Investimentos Bens,Investimentos,true
+11,DOAÇÕES,null,Doações e Ajudas,Despesa,false,Despesas com doações,Despesas e Custos,true
+12,EDUCAÇÃO,null,Cursos,Despesa,false,Despesas com educação,Despesas e Custos,true
+13,EDUCAÇÃO,null,Escola,Despesa,false,Despesas com educação,Despesas e Custos,true
+14,EDUCAÇÃO,null,Faculdade,Despesa,false,Despesas com educação,Despesas e Custos,true
+15,EDUCAÇÃO,null,Material Escolar,Despesa,false,Despesas com educação,Despesas e Custos,true
+16,EDUCAÇÃO,null,Pós-Graduação,Despesa,false,Despesas com educação,Despesas e Custos,true
+17,EDUCAÇÃO,null,Transporte Escolar,Despesa,false,Despesas com educação,Despesas e Custos,true
+18,EMPREGADOS,null,Encargos Empregados,Despesa,false,Despesas com empregados,Despesas e Custos,true
+19,EMPREGADOS,null,Pagamento Diarista,Despesa,false,Despesas com empregados,Despesas e Custos,true
+20,EMPREGADOS,null,Pagamento Jardineiro,Despesa,false,Despesas com empregados,Despesas e Custos,true
+21,EMPREGADOS,null,Pagamento Piscineiro,Despesa,false,Despesas com empregados,Despesas e Custos,true
+22,EMPREGADOS,null,Salário Empregados,Despesa,false,Despesas com empregados,Despesas e Custos,true
+23,EMPREGADOS,null,Transporte Empregados,Despesa,false,Despesas com empregados,Despesas e Custos,true
+24,ESPECIAIS,null,Sem Categoria,Fora dos totais,false,Sem Categoria,Sem Categoria,true
+25,ESPECIAIS,null,Transferência entre Contas,Transferência,false,Transferência entre Contas,Transferência entre Contas,true
+26,FAMÍLIA,null,Academia,Despesa,false,Despesas com família,Despesas e Custos,true
+27,FAMÍLIA,null,Acessórios,Despesa,false,Despesas com família,Despesas e Custos,true
+28,FAMÍLIA,null,Mesada,Despesa,false,Despesas com família,Despesas e Custos,true
+29,FAMÍLIA,null,Moradia (Isadora),Despesa,false,Despesas com família,Despesas e Custos,true
+30,FAMÍLIA,null,Presentes,Despesa,false,Despesas com família,Despesas e Custos,true
+31,FAMÍLIA,null,Roupas e Calçados,Despesa,false,Despesas com família,Despesas e Custos,true
+32,FAMÍLIA,null,Salão de Beleza e Cosméticos,Despesa,false,Despesas com família,Despesas e Custos,true
+39,IMÓVEIS,Contas da casa,Água e Esgoto,Despesa,false,Despesas com imóveis,Despesas e Custos,true
+36,IMÓVEIS,Contas da casa,Condomínio,Despesa,false,Despesas com imóveis,Despesas e Custos,true
+37,IMÓVEIS,Contas da casa,Energia Elétrica,Despesa,false,Despesas com imóveis,Despesas e Custos,true
+38,IMÓVEIS,Contas da casa,Gás,Despesa,false,Despesas com imóveis,Despesas e Custos,true
+40,IMÓVEIS,Manutenção e encargos,Corretagem,Despesa,false,Despesas com imóveis,Despesas e Custos,true
+41,IMÓVEIS,Manutenção e encargos,"Impostos (IPTU, SPU e outros)",Despesa,false,Despesas com imóveis (impostos),Despesas e Custos,true
+42,IMÓVEIS,Manutenção e encargos,Restauração e Manutenção,Despesa,false,Despesas com imóveis,Despesas e Custos,true
+33,IMPOSTOS,null,CREA e Imposto Sindical,Despesa,false,Despesas com Impostos,Despesas e Custos,true
+34,IMPOSTOS,null,INSS,Despesa,false,Despesas com Impostos,Despesas e Custos,true
+35,IMPOSTOS,null,IR,Despesa,false,Despesas com Impostos,Despesas e Custos,true
+43,INVESTIMENTOS E PATRIMÔNIO,null,Aplicação em Investimento,Fora dos totais,false,Investimentos Financeiros,Investimentos Financeiros,true
+44,INVESTIMENTOS E PATRIMÔNIO,null,BRASILPREV,Fora dos totais,false,Investimentos Financeiros,Investimentos Financeiros,true
+45,INVESTIMENTOS E PATRIMÔNIO,null,Resgate de Investimento,Fora dos totais,false,Receitas Financeiras,Receitas Financeiras,true
+46,INVESTIMENTOS E PATRIMÔNIO,null,Venda de Imóveis e Veículos,Fora dos totais,false,Venda de Imóveis e Veículos,Investimentos e Patrimônio,true
+49,LAZER,VIAGENS,VIAGENS/Alimentação,Despesa,false,Despesas com lazer,Despesas e Custos,true
+50,LAZER,VIAGENS,VIAGENS/Compras,Despesa,false,Despesas com lazer,Despesas e Custos,true
+51,LAZER,VIAGENS,VIAGENS/Estadia,Despesa,false,Despesas com lazer,Despesas e Custos,true
+52,LAZER,VIAGENS,VIAGENS/Passagens,Despesa,false,Despesas com lazer,Despesas e Custos,true
+53,LAZER,VIAGENS,VIAGENS/Passeios,Despesa,false,Despesas com lazer,Despesas e Custos,true
+54,LAZER,VIAGENS,VIAGENS/Transporte,Despesa,false,Despesas com lazer,Despesas e Custos,true
+47,LAZER,null,Cinema-Teatro-Show,Despesa,false,Despesas com lazer,Despesas e Custos,true
+48,LAZER,null,Eventos e Festas,Despesa,false,Despesas com lazer,Despesas e Custos,true
+55,OUTRAS DESPESAS,null,OUTRAS DESPESAS,Despesa,false,Outras Despesas,Despesas e Custos,true
+56,RECEITAS,Financeiras,Juros de Investimento,Receita,false,Receitas Financeiras,Receitas Financeiras,true
+57,RECEITAS,Imobiliárias,Aluguel dos Imóveis,Receita,false,Receitas Imobiliárias,Receitas e Benefícios,true
+58,RECEITAS,Outras,Conversão de outras moedas para Real,Receita,false,Receitas de conversão de moeda,Receitas e Benefícios,true
+59,RECEITAS,Outras,Reembolso,Receita,false,Receitas e Benefícios,Receitas e Benefícios,true
+60,RECEITAS,Trabalho e Benefícios,Benefícios Aposentadoria,Receita,false,Receitas e Benefícios,Receitas e Benefícios,true
+61,RECEITAS,Trabalho e Benefícios,Décimo Terceiro,Receita,false,Receitas e Benefícios,Receitas e Benefícios,true
+63,RECEITAS,Trabalho e Benefícios,Férias,Receita,false,Receitas e Benefícios,Receitas e Benefícios,true
+62,RECEITAS,Trabalho e Benefícios,FGTS,Receita,false,Receitas e Benefícios,Receitas e Benefícios,true
+64,RECEITAS,Trabalho e Benefícios,PLR,Receita,false,Receitas e Benefícios,Receitas e Benefícios,true
+65,RECEITAS,Trabalho e Benefícios,Remuneração,Receita,false,Receitas e Benefícios,Receitas e Benefícios,true
+66,SAÚDE,null,Dentista,Despesa,false,Despesas com Saúde,Despesas e Custos,true
+67,SAÚDE,null,Exames e Vacinas,Despesa,false,Despesas com Saúde,Despesas e Custos,true
+68,SAÚDE,null,Farmácia,Despesa,false,Despesas com Saúde,Despesas e Custos,true
+69,SAÚDE,null,Médico e Psicóloga,Despesa,false,Despesas com Saúde,Despesas e Custos,true
+70,SAÚDE,null,Plano de Saúde,Despesa,false,Despesas com Saúde,Despesas e Custos,true
+71,SAÚDE,null,Saúde Família,Despesa,false,Despesas com família,Despesas e Custos,true
+72,SEGUROS E SERVIÇOS FUNERÁRIOS,null,Equipamentos Eletrônicos,Despesa,false,Despesas com Seguros,Despesas e Custos,true
+73,SEGUROS E SERVIÇOS FUNERÁRIOS,null,Residencial,Despesa,false,Despesas com Seguros,Despesas e Custos,true
+74,SEGUROS E SERVIÇOS FUNERÁRIOS,null,Serviços Funerários,Despesa,false,Despesas com Seguros,Despesas e Custos,true
+75,SEGUROS E SERVIÇOS FUNERÁRIOS,null,Vida,Despesa,false,Despesas com Seguros,Despesas e Custos,true
+76,SERVIÇOS FINANCEIROS,null,Anuidade Cartão,Despesa,false,Despesas Bancárias,Despesas e Custos,true
+77,SERVIÇOS FINANCEIROS,null,Conversão de Real para outras moedas,Despesa,false,Despesas com conversão de moeda,Despesas e Custos,true
+78,SERVIÇOS FINANCEIROS,null,Despesas Cartão de Crédito,Despesa,false,Despesas Bancárias,Despesas e Custos,true
+79,SERVIÇOS FINANCEIROS,null,Tarifas Bancárias,Despesa,false,Despesas Bancárias,Despesas e Custos,true
+80,TECNOLOGIA E COMUNICAÇÃO,null,Assinaturas e Software,Despesa,false,Despesas com TI,Despesas e Custos,true
+81,TECNOLOGIA E COMUNICAÇÃO,null,Celular,Despesa,false,Despesas com TI,Despesas e Custos,true
+82,TECNOLOGIA E COMUNICAÇÃO,null,Internet,Despesa,false,Despesas com TI,Despesas e Custos,true
+84,TECNOLOGIA E COMUNICAÇÃO,null,Telefone Fixo,Despesa,false,Despesas com TI,Despesas e Custos,true
+83,TECNOLOGIA E COMUNICAÇÃO,null,TV a Cabo,Despesa,false,Despesas com TI,Despesas e Custos,true
+91,TRANSPORTE,Automóvel,Automóvel/DPVAT,Despesa,false,Despesas com Automóvel (Impostos),Despesas e Custos,true
+92,TRANSPORTE,Automóvel,Automóvel/IPVA,Despesa,false,Despesas com Automóvel (Impostos),Despesas e Custos,true
+93,TRANSPORTE,Automóvel,Automóvel/Licenciamento,Despesa,false,Despesas com Automóvel (Impostos),Despesas e Custos,true
+94,TRANSPORTE,Automóvel,Automóvel/Manutenção,Despesa,false,Despesas com Automóvel (Manutenção),Despesas e Custos,true
+95,TRANSPORTE,Automóvel,Automóvel/Seguro,Despesa,false,Despesas com Automóvel (Seguros),Despesas e Custos,true
+96,TRANSPORTE,Moto,Moto/DPVAT,Despesa,false,Despesas com Moto (Impostos),Despesas e Custos,true
+97,TRANSPORTE,Moto,Moto/IPVA,Despesa,false,Despesas com Moto (Impostos),Despesas e Custos,true
+98,TRANSPORTE,Moto,Moto/Licenciamento,Despesa,false,Despesas com Moto (Impostos),Despesas e Custos,true
+99,TRANSPORTE,Moto,Moto/Manutenção,Despesa,false,Despesas com Moto (Manutenção),Despesas e Custos,true
+100,TRANSPORTE,Moto,Moto/Seguro,Despesa,false,Despesas com Moto (Seguro),Despesas e Custos,true
+85,TRANSPORTE,null,Combustível,Despesa,false,Despesas com Combustível,Despesas e Custos,true
+86,TRANSPORTE,null,Estacionamento,Despesa,false,Despesas com Estacionamento,Despesas e Custos,true
+87,TRANSPORTE,null,Pedágio,Despesa,false,Despesas com Transporte,Despesas e Custos,true
+88,TRANSPORTE,null,Taxas e Multas,Despesa,false,Despesas com Transporte,Despesas e Custos,true
+90,TRANSPORTE,null,Táxi,Despesa,false,Despesas com Transporte,Despesas e Custos,true
+89,TRANSPORTE,null,Transporte Público,Despesa,false,Despesas com Transporte,Despesas e Custos,true
